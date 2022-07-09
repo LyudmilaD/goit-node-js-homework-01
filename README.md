@@ -1,4 +1,4 @@
-# goit-nodejs-homework-01
+# goit-node-js-homework-01
 
 # Получаем и выводим весь список контактов в виде таблицы (console.table)
 
